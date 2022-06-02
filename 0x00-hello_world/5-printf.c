@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
-  * main marks the beginnning
+  *this is a short code on the printf
+ *Main marks the beginnning
   * Return: stop
  */
 int main(void)
