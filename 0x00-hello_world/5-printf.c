@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- *  * main - beg
-**no comment
- *    * Return: stop
- *     */
+ *  * main - beginning
+ *    * Return: stopping
+ */
 
 int main(void)
 
