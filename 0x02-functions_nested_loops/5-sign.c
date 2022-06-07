@@ -1,6 +1,6 @@
 #include "main.h"
-/*
- *  * print_sign(int n) - returns 0 letter not lowercase, 1 letter lowercase
+/**
+ *    * print_sign(int n) - returns 0 letter not lowercase, 1 letter lowercase
  *    * @n : number to check
  *     * Return: 0 or 1
  */
