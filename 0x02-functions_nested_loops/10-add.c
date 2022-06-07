@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /*
- *  * Add -prints add two numbers
+ *  * Add: adds tw integers and prints results
  *   * @i: print int i
  *    * @k: print int k
  *     * Return: Always 0.
