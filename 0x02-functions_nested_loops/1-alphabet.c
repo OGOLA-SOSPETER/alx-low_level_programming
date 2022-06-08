@@ -1,5 +1,6 @@
 #include "main.h"
 /**
+ *   * a program to print alphabets
  *  * print_alphabet : entry of function
  *   * Return: 0
  */
