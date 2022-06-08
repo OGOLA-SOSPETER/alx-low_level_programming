@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  *  * times_table: -prints table
  *    * Return: Always 0.
  */
