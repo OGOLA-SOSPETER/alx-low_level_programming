@@ -1,4 +1,5 @@
 #include "main.h"
+#include<stdlib.h>
 /**
  *   * Main - this is the main function
  *   * _isalpha - returns  if c is a letter. lowercase or uppercase
