@@ -1,8 +1,17 @@
 #include "main.h"
-
-int main(void)
-
+/**
+ * _isdigit - checks for digits
+ * @c: parameter
+ * Return: 0 or 1
+ */
+int _isdigit(int c)
 {
-	_puts("\" my goal was to be the best hacker\"\n\t");
+	if (c >= 48 && c < 58)
+	{
+	return (1);
+	}
+	else
+	{
 	return (0);
+	}
 }

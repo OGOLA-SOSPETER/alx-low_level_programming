@@ -1,8 +1,18 @@
 #include "main.h"
 
-int main(void)
+/**
+ * _puts - pusts to stdout
+ * @str: params
+ */
 
+void _puts(char *str)
 {
-	_puts("\"At the end of the day, my goal was to be the best hacker\"\n\t- Kevin Mitnick");
-	return (0);
+	int i = 0;
+
+	while (str[i] != '\0')
+		{
+	_putchar(str[i]);
+		i++;
+		}
+	_putchar('\n');
 }
