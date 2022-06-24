@@ -146,3 +146,12 @@ int main(void)
 #!/bin/bash
 int _isupper(int c);
 
+100-atoi.o/     0           0     0     644     106       `
+#include "main.h"
+
+int main(void)
+
+{
+	_puts("\" my goal was to be the best hacker\"\n\t");
+	return (0);
+}
