@@ -1,1 +1,144 @@
 !<arch>
+main.o/         0           0     0     644     145       `
+#include "main.h"
+
+int main(void)
+
+{
+	_puts("\"At the end of the day, my goal was to be the best hacker\"\n\t- Kevin Mitnick");
+			return (0);
+}
+
+0-memset.o/     0           0     0     644     122       `
+#include "main.h"
+
+int main(void)
+
+{
+	_puts("\" my goal was to be the best hacker\"\n\t- OGOLA SOSPETER");
+	return (0);
+}
+0-strcat.o/     0           0     0     644     145       `
+#include "main.h"
+
+int main(void)
+
+{
+		_puts("\"At the end of the day, my goal was to be the best hacker\"\n\t- Kevin Mitnick");
+		return (0);
+}
+
+1-isdigit.0/    0           0     0     644     106       `
+#include "main.h"
+
+int main(void)
+
+{
+	_puts("\" my goal was to be the best hacker\"\n\t");
+	return (0);
+}
+1-memcpy.o/     0           0     0     644     105       `
+#include "main.h"
+
+int main(void)
+
+{
+	_puts("\"my goal was to be the best hacker\"\n\t");
+	return (0);
+}
+
+1-strncat.o/    0           0     0     644     105       `
+#include "main.h"
+
+int main(void)
+
+{
+	_puts("\"my goal was to be the best hacker\"\n\t");
+	return (0);
+}
+
+2-strchr.o/     0           0     0     644     105       `
+#include "main.h"
+
+int main(void)
+
+{
+	_puts("\"my goal was to be the best hacker\"\n\t");
+	return (0);
+}
+
+2-strlen.o/     0           0     0     644     105       `
+#include "main.h"
+
+int main(void)
+
+{
+	_puts("\"my goal was to be the best hacker\"\n\t");
+	return (0);
+}
+
+3-islower.o/    0           0     0     644     105       `
+#include "main.h"
+
+int main(void)
+
+{
+	_puts("\"my goal was to be the best hacker\"\n\t");
+	return (0);
+}
+
+3-puts.o/       0           0     0     644     143       `
+#include "main.h"
+
+int main(void)
+
+{
+	_puts("\"At the end of the day, my goal was to be the best hacker\"\n\t- Kevin Mitnick");
+	return (0);
+}
+
+3-strcmp.o/     0           0     0     644     105       `
+#include "main.h"
+
+int main(void)
+
+{
+	_puts("\"my goal was to be the best hacker\"\n\t");
+	return (0);
+}
+
+2-strncpy.o/    0           0     0     644     105       `
+#include "main.h"
+
+int main(void)
+
+{
+	_puts("\"my goal was to be the best hacker\"\n\t");
+	return (0);
+}
+
+3-strspn.o/     0           0     0     644     106       `
+#include "main.h"
+
+int main(void)
+
+{
+	_puts("\" my goal was to be the best hacker\"\n\t");
+	return (0);
+}
+4-strpbrk.o/    0           0     0     644     492       `
+#include "main.h"                                                                                                                       
+int main(void)                                                                                                                         
+{                                                                                             
+       	_puts("\"my goal was to be the best hacker\"\n\t");                                                   return (0);
+}
+4-isalpha.o/    0           0     0     644     105       `
+#include "main.h"
+
+int main(void)
+
+{
+	_puts("\"my goal was to be the best hacker\"\n\t");
+	return (0);
+}
+
