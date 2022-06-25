@@ -1,8 +1,23 @@
 #include "main.h"
+#include <stdio.h>
 
-int main(void)
-
+/**
+ *    * _abs - value absolute
+ *    * @n: The int to print
+ *     * Return: Always 0.
+ */
+int _abs(int n)
 {
-	_puts("\"my goal was to be the best hacker\"\n\t");
-	return (0);
+if (n < 0)
+{
+return (n * (-1));
+}
+else if (n == 0)
+{
+return (0);
+}
+else
+{
+return (n);
+}
 }
