@@ -1,23 +1,15 @@
 #include <stdio.h>
-
-
-
 /**
-
- * main - beg
-
- *
-
- * Return: stop
-
+ *  * main - beginning
+ *    * Return: stopping
  */
 
 int main(void)
 
 {
 
-	printf("with proper grammar, but the outcome is a piece of art,\n");
+		printf("with proper grammar, but the outcome is a piece of art,\n");
 
-	return (0);
+			return (0);
 
 }
